@@ -1,4 +1,14 @@
 h1 {
 	text-align: center;
-	
+	background: url("unit_3/adults-chairs-class-515166.jpg");
+	background-size: cover;
+	color: "fff";
+	#slogan: text-decoration: italic;
+}
+hr {
+	200
+}
+
+body {
+	background-color: "fff";
 }
