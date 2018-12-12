@@ -5,6 +5,7 @@ body {
 	color: #6EB257
 }
 img {
+	align-content: center;
 	width: 1020px;
 	height: 685px;
 }
