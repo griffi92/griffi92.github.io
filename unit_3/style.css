@@ -1,6 +1,12 @@
 h1 {
-	background-color: #C5E063
+	color: #C5E063
 }
 body {
-	background-color: #6EB257
+	color: #6EB257
+}
+img {
+	size: (1024px x 685px)
+}
+#slogan {
+	text-decoration: 
 }
