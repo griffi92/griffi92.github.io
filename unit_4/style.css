@@ -1,11 +1,7 @@
-
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Roboto+Slab');
 h1 {
-	font-family: 'Roboto Slab', serif;
 	color: #C5E063;
 	text-align: center;
 body {
-	font-family: 'Crimson Text', serif;
 	color: #6EB257;
 }
 img {
