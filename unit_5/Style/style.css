@@ -5,15 +5,51 @@ h1 {
 	color: #C5E063;
 	text-align: center;
 body {
+	background-image: url("../images/adults-chairs-class-515166.jpg");
 	font-family: 'Crimson Text', serif;
 	color: #6EB257;
 }
 img {
-	align-content: center;
+	align-content: "center";
 	align-items: center;
 	width: 1020px;
 	height: 685px;
 }
 #slogan {
 	font-style: italic;
+}
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957#;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 }
