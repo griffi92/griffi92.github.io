@@ -4,6 +4,7 @@ h1 {
 	font-family: 'Roboto Slab', serif;
 	color: #C5E063;
 	text-align: center;
+}
 body {
 	background-image: url("../images/adults-chairs-class-515166.jpg");
 	font-family: 'Crimson Text', serif;
@@ -43,7 +44,7 @@ article {
 }
 
 footer {
-    background-color: #FF957#;
+    background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
 }
