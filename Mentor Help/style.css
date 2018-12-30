@@ -1,34 +1,26 @@
 
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Roboto+Slab');
-
-.wrapper {
-    background-color: white;
-}
 h1 {
 	font-family: 'Roboto Slab', serif;
 	color: #C5E063;
 	text-align: center;
 }
-
 body {
 	background-image: url("../images/adults-chairs-class-515166.jpg");
 	font-family: 'Crimson Text', serif;
-	color: blue;
+	color: #6EB257;
 }
-
 img {
-	
+	align-content: "center";
+	align-items: center;
 	width: 1020px;
 	height: 685px;
 }
-
 #slogan {
 	font-style: italic;
-    text-align: center;
 }
-
 header {
-    background-color: none;
+    background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
@@ -36,11 +28,6 @@ header {
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
-    padding: 20px;
-    color: white;
-    text-decoration: none;
-    display: block;
-    float: left;
     padding: 20px;
 }
 
@@ -76,15 +63,6 @@ article {
     padding: 20px;
     float: right;   
     width: 62%;
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
 }
 
 footer {
