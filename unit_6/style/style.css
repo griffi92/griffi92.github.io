@@ -10,6 +10,7 @@ body {
 	font-family: 'Crimson Text', serif;
 	color: #6EB257;
 }
+
 img {
 	align-content: "center";
 	align-items: center;
@@ -18,13 +19,30 @@ img {
 }
 #slogan {
 	font-style: italic;
+    text-align: center;
 }
+
 header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
 
+#home_articles {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#home_image {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
@@ -41,6 +59,37 @@ article {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
 footer {
