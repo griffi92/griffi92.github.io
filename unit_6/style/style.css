@@ -16,10 +16,9 @@ body {
 	color: blue;
 }
 
-img {
-	
-	width: 1020px;
-	height: 685px;
+.hero   {
+    width:50vw;
+    height: 50vw;
 }
 
 #slogan {
@@ -33,15 +32,21 @@ header {
     padding: 20px;
 }
 
-nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
-    color: white;
-    text-decoration: none;
+#main {
     display: block;
-    float: left;
+    background-color: none;
     padding: 20px;
+    margin: 10px;
+    float: right;
+}
+
+li  {
+  background-color: #031927;
+  color: white;
+  text-decoration: none;
+  display: block;
+  float: left;
+  padding: 20px;
 }
 
 aside {
