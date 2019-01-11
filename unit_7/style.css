@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Roboto+Slab');
+
+
+h1 {
+	background-image: url("https://images.pexels.com/photos/515166/pexels-photo-515166.jpeg");
+	font-family: 'Roboto Slab', serif;
+	color: #C5E063;
+	text-align: center;
+}
+body {
+	font-family: 'Crimson Text', serif;
+	color: #6EB257;
+}
+img {
+	align-content: center;
+	align-items: center;
+	width: 1020px;
+	height: 685px;
+}
+#slogan {
+	font-style: italic;
+}
